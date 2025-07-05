@@ -11,10 +11,10 @@ Un système complet de collecte, traitement et recommandation d'articles techniq
 
 ## 🌍 Application en Ligne
 Accédez à la démo :  
-🔗 [[https://systeme-de-recommandation-rag.streamlit.app/](https://systeme-de-recommandation-rag.streamlit.app/](https://systeme-de-recommandation-rag-fjibtvzbuowamhdht5zfbh.streamlit.app/))
+🔗 [https://systeme-de-recommandation-rag.streamlit.app/](https://systeme-de-recommandation-rag.streamlit.app/](https://systeme-de-recommandation-rag-fjibtvzbuowamhdht5zfbh.streamlit.app/))
 
 ## 🛠 Fonctionnalités Clés
-- Recherche sémantique dans +10 000 articles techniques
+- Recherche sémantique dans plusieurs articles techniques
 - Visualisation des résultats avec scores de pertinence
 - Nuage de mots clés dynamique
 - Filtrage avancé des résultats
