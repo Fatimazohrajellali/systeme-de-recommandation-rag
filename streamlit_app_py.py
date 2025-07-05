@@ -8,10 +8,9 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from wordcloud import WordCloud
 
-# Chemins des fichiers (modifie-les si besoin)
-DRIVE_PATH = "/content/drive/MyDrive/rag_project"
-INDEX_PATH = f"{DRIVE_PATH}/faiss_index.index"
-DATA_PATH = "/content/drive/MyDrive/cleaned_articles.csv"
+# Chemins des fichiers dans le dossier data du repo GitHub
+INDEX_PATH = "data/faiss_index.index"
+DATA_PATH = "data/cleaned_articles.csv"
 
 @st.cache_resource
 def load_model():
